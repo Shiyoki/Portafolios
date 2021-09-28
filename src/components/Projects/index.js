@@ -9,6 +9,7 @@ export default function Projects(){
     return(
         
         <div className="bg-blue-100">
+            <h1 className="text-4xl text-center text-white font-extrabold mb-10 pt-3">Proyectos</h1>
             <div className="ml-auto mr-auto grid grid-cols-1 md:grid-cols-2 sm:grid-cols-1 lg:grid-cols-2 xl:grid-cols-2 ">
                 <div className="ml-auto mr-auto mt-9 mb-9">
                     <div className="w-96 h-96 shadow-xl bg-blue-400 hover:bg-blue-500">
