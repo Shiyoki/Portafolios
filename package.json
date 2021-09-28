@@ -1,5 +1,5 @@
 {
-  "name": "my-app",
+   "name": "my-app",
   "version": "0.1.0",
   "private": true,
   "engines": {
@@ -23,9 +23,7 @@
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
-    "eject": "react-scripts eject"
-  },
-  "eslintConfig": {
+    "eject": "react-scripts eject",
     "extends": [
       "react-app",
       "react-app/jest"
