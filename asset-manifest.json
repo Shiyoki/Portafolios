@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portafolios/static/css/main.06707e42.chunk.css",
-    "main.js": "/portafolios/static/js/main.fe42a8c1.chunk.js",
-    "main.js.map": "/portafolios/static/js/main.fe42a8c1.chunk.js.map",
-    "runtime-main.js": "/portafolios/static/js/runtime-main.205f2af0.js",
-    "runtime-main.js.map": "/portafolios/static/js/runtime-main.205f2af0.js.map",
-    "static/js/2.2725a758.chunk.js": "/portafolios/static/js/2.2725a758.chunk.js",
-    "static/js/2.2725a758.chunk.js.map": "/portafolios/static/js/2.2725a758.chunk.js.map",
-    "static/js/3.9190e863.chunk.js": "/portafolios/static/js/3.9190e863.chunk.js",
-    "static/js/3.9190e863.chunk.js.map": "/portafolios/static/js/3.9190e863.chunk.js.map",
+    "main.js": "/portafolios/static/js/main.8d9f7e02.chunk.js",
+    "main.js.map": "/portafolios/static/js/main.8d9f7e02.chunk.js.map",
+    "runtime-main.js": "/portafolios/static/js/runtime-main.b5a547db.js",
+    "runtime-main.js.map": "/portafolios/static/js/runtime-main.b5a547db.js.map",
+    "static/js/2.d95f0cd2.chunk.js": "/portafolios/static/js/2.d95f0cd2.chunk.js",
+    "static/js/2.d95f0cd2.chunk.js.map": "/portafolios/static/js/2.d95f0cd2.chunk.js.map",
+    "static/js/3.84e17446.chunk.js": "/portafolios/static/js/3.84e17446.chunk.js",
+    "static/js/3.84e17446.chunk.js.map": "/portafolios/static/js/3.84e17446.chunk.js.map",
     "index.html": "/portafolios/index.html",
     "static/css/main.06707e42.chunk.css.map": "/portafolios/static/css/main.06707e42.chunk.css.map",
-    "static/js/2.2725a758.chunk.js.LICENSE.txt": "/portafolios/static/js/2.2725a758.chunk.js.LICENSE.txt",
+    "static/js/2.d95f0cd2.chunk.js.LICENSE.txt": "/portafolios/static/js/2.d95f0cd2.chunk.js.LICENSE.txt",
     "static/media/Coso.3dfa14dc.png": "/portafolios/static/media/Coso.3dfa14dc.png",
     "static/media/MongoDB.24b3ddc3.png": "/portafolios/static/media/MongoDB.24b3ddc3.png",
     "static/media/MySQL.0fa26826.png": "/portafolios/static/media/MySQL.0fa26826.png",
@@ -34,9 +34,9 @@
     "static/media/wideologin.10572743.jpg": "/portafolios/static/media/wideologin.10572743.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.205f2af0.js",
-    "static/js/2.2725a758.chunk.js",
+    "static/js/runtime-main.b5a547db.js",
+    "static/js/2.d95f0cd2.chunk.js",
     "static/css/main.06707e42.chunk.css",
-    "static/js/main.fe42a8c1.chunk.js"
+    "static/js/main.8d9f7e02.chunk.js"
   ]
 }
